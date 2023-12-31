@@ -11,18 +11,15 @@ export const projects = [
     title: "Askme",
     url: "https://github.com/Nikhilchakravarthy1303/Ask-Me",
     image: "projects/askme.png",
-    description: "Community driven doubt management mobile app",
   },
   {
     title: "Video Meet",
     url: "https://github.com/Nikhilchakravarthy1303/VideoMeet",
     image: "projects/video.png",
-    description: "Google meet AI clone with addon features",
   },
   {
     title: "File Validation",
     image: "projects/preview.gif",
-    description: "File Validation using alteryx",
   },
   
 ];
