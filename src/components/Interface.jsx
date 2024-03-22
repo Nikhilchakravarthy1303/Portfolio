@@ -124,7 +124,7 @@ const skills = [
   },
   {
     title: ".NET",
-    level: 30,
+    level: 90,
   },
 ];
 const languages = [
