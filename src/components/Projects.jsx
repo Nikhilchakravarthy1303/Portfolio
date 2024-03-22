@@ -21,6 +21,11 @@ export const projects = [
     title: "File Validation",
     image: "projects/preview.gif",
   },
+  {
+    title: "Food Calorie Estimation",
+    url:"https://github.com/Nikhilchakravarthy1303/FoodCalorieEstimation",
+    image: "projects/2738729.png",
+  },
   
 ];
 
