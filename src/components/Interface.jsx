@@ -346,7 +346,7 @@ const ContactSection = () => {
       <a href="https://github.com/Nikhilchakravarthy1303" target="_blank" rel="noopener noreferrer">
         <FaGithub size={30} color="black" />
       </a>
-      <a href="https://drive.google.com/file/d/1TnowCyi9pYX5FeaaYqvoaTpgMRPqBbcl/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+      <a href="https://drive.google.com/file/d/1nSi5FJAjpogrA4MbK7tDA0i4EGUnrktL/view?usp=sharing" target="_blank" rel="noopener noreferrer">
         <FaRegFile size={30} color="maroon" />
         
 
